@@ -15,10 +15,10 @@ Este informe presenta un estudio práctico donde se implementó una misma aplica
 
 ### 2.1 Plataforma de Pruebas (Host Físico)
 
-**Modelo del equipo:**  
-**Procesador:**  
-**Memoria RAM instalada:**  
-**Sistema operativo anfitrión:**  
+**Modelo del equipo:**  ASUS ROG Zephyrus G16
+**Procesador:**  Intel Core Ultra 9 185H
+**Memoria RAM instalada:**  16GB
+**Sistema operativo anfitrión:**  Windows   
 
 ### 2.2 Entorno Virtualizado
 
